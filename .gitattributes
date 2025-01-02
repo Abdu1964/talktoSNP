@@ -1,2 +1,5 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 data/snpedia_variants_list.txt filter=lfs diff=lfs merge=lfs -text
+data/snpedia_fetched.csv filter=lfs diff=lfs merge=lfs -text
+data/snpedia_alleles.csv filter=lfs diff=lfs merge=lfs -text
+data/snpedia_alleles_filtered.csv filter=lfs diff=lfs merge=lfs -text
